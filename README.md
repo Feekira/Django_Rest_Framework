@@ -1,4 +1,4 @@
-# Create Virtualenv and install next steps by django_rest_framework
+## Create Virtualenv and install next steps by django_rest_framework
 
 asgiref==3.4.1  
 Django==3.2.9  
@@ -12,4 +12,4 @@ typing-extensions==4.0.0
 zipp==3.6.0  
 
 
-# or dowload and execute requeriments.txt from pip install -r requeriments.txt
+## or dowload and execute requeriments.txt from pip install -r requeriments.txt
